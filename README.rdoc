@@ -1,0 +1,3 @@
+== README
+
+This README is my first rails app.
